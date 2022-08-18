@@ -2,8 +2,9 @@
 
 ## Dataset
 
-Name of Dataset: New York Times Comments (Comments on articles published in the New York Times)
-Link of Dataset: https://www.kaggle.com/datasets/aashita/nyt-comments
+**Name of Dataset:** New York Times Comments (Comments on articles published in the New York Times)
+
+**Link of Dataset:** https://www.kaggle.com/datasets/aashita/nyt-comments
 
 ## Creating the Model
 
