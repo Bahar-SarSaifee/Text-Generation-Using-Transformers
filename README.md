@@ -1,6 +1,6 @@
 # Text Generation Using Transformers and GRU
 
-In this project, we build a hybrid model based on the transformer decoder and GRU network that can generate text using TensorFlow and Keras in Python.
+In this project, we build a hybrid model based on the Transformer Decoder and GRU network that can generate text using TensorFlow and Keras in Python.
 
 ## Dataset
 
